@@ -1,0 +1,2 @@
+procedure hello(age)
+    if age >= 21 and age <= 23 then output 'Say hello' else output 'Say no thank you'
